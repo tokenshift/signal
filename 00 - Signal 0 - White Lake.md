@@ -1,5 +1,4 @@
 # [Signal 0: White Lake](http://numenerathesignal.blogspot.com/2013/09/signal-0-white-lake.html)
-*2013-09-06*
 
 Is anyone out there? Is anyone listening? I'm Vaux, an informed jack who tells
 tales and I'm sending out a signal.
@@ -39,7 +38,7 @@ them off forever?
 
 Somebody needs to confront the Bloody Lashers and drive them off, and soon.
 
-*Interlude*
+*Music*
 
 Unfortunately Klert the Cruel isn't the only concern facing White Lake. I know
 some of the history of your region. I know that once, you were practically part
@@ -68,7 +67,7 @@ time. And I know not to discount anything off-hand. But one thing is certain.
 Something strange is happening there. Is anyone brave enough to investigate the
 mysterious happenings in Seliscore castle?
 
-*Interlude*
+*Music*
 
 There are other rumors in White Lake: A creature made of shards of glass
 stalking the wastes, searching for something. The jagged walker, as it's been
