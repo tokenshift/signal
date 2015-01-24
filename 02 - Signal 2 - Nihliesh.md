@@ -19,11 +19,11 @@ Nihliesh, listen closely.
 It's difficult to keep a secret in Nihliesh, isn't it? Your city is lousey with
 spies and thieves, and many of them are telepaths. It's fairly safe to say all
 information in the city eventually finds its way to the second tier, directly
-into the hungy mind of Nicha Dos. But she isn't omniscient, is she? And there
+into the hungy mind of Ni-chodoss. But she isn't omniscient, is she? And there
 are some things that even she does not know. And some of those things can be a
 danger to her. And everyone else in the city.
 
-One such unknown is the question of who the three swords are. You may have
+One such unknown is the question of who the Three Swords are. You may have
 heard the whispers of this new faction that has recently arisen within the
 city. You may have seen their logo--three swords in a triangle--scrawled on a
 wall or a door. If you know of them, you know they have made it clear they are
