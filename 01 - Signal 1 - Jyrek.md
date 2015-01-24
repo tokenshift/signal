@@ -4,7 +4,7 @@ Can you hear me? Are you listening? I'm Vaux, an informed jack who tells tales,
 and this is my signal.
 
 I am broadcasting to you for one reason. To illuminate you. Ignorance serves
-noone in a dark age. I am a candle in the night.
+no one in a dark age. I am a candle in the night.
 
 If you can hear me, take note. This broadcast is for and about the people of
 Jyrek, a fortress city in the kingdom of Thaemor. Consider yourself warned.
@@ -47,7 +47,7 @@ meant as a refuge for a royal family, but it became their tomb when disease
 spred through the structure. For decades, the great egg has floated over the
 heart of your city, civic and national law prohibiting anyone from entering for
 fear of what terrible plague may still be cultivating within. But when you lock
-all the doors and tell noone to open them, someone is sure to start wondering
+all the doors and tell no one to open them, someone is sure to start wondering
 what lies on the other side.
 
 Especially someone who is obsessed with doors. Professor Lurik Sian is someone.
@@ -71,11 +71,11 @@ There are other rumors in Jyrek.
 There have been sightings of flickering lights at night in the wooded hills
 near the city. During the day the area is empty save for the strange, swirling
 patterns in the drit. At night, strange glowing creatures are observed hovering
-through the woods, but noone dares get closer to find out what they are.
+through the woods, but no one dares get closer to find out what they are.
 
 For two months now, every week, a green sigil has been appearing on one of the
 city's guard towers. The local guardsmen have been clearing it off, but like
-clockwork, it comes back. Noone knows what it means.
+clockwork, it comes back. No one knows what it means.
 
 An inventor in the city claims to have created a device that can shrink someone
 to microscopic size, and is looking for a volunteer to test it. So far, there

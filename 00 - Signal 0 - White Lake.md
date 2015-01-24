@@ -51,7 +51,7 @@ believed it was empty for the longest time. But it isn't, is it?
 
 You've heard the rumors, same as I have. Odd lights in the night; unusual
 terrible noises; a sense of creeping forboding. Fortunately, the castle is far
-enough away from the town that noone seems to have been harmed, but that
+enough away from the town that no one seems to have been harmed, but that
 doesn't mean you aren't all looking in its direction, and wondering. Are
 bandits, abhumans, or worse squatting in the old castle? Perhaps, but then
 again Klert the Cruel and his Bloody Lashers are giving it a wide berth. They
@@ -75,7 +75,7 @@ dubbed, has only been seen in the distance. What manner of creature is it? More
 importantly, what's it looking for?
 
 On certain nights of the year a glow can be seen coming from under the lake,
-but it's never in the same place twice, and noone's ever figured out what
+but it's never in the same place twice, and no one's ever figured out what
 causes it.
 
 Have you heard the one about the frozen tree? It grows in a wooded area near
