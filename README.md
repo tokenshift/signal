@@ -7,4 +7,6 @@ Numenera.
 
 [Signal 0: White Lake](00 - Signal 0 - White Lake.md)
 
-_[LEGAL](LEGAL.md)_
+## Legal
+
+[Disclaimer](LEGAL.md)
