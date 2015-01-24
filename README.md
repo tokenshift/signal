@@ -3,7 +3,7 @@
 Transcriptions of The Signal, a podcast set in the world of Monte Cook's
 Numenera.
 
-## Legal Disclaimer
+	Disclaimer
 
 	The Monte Cook Games logo, Numenera, and the Numenera logo are trademarks
 	of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook

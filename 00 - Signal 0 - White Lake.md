@@ -94,7 +94,7 @@ Beyond. Safe travels, numenera hunters.
 
 I'm Vaux; end signal.
 
-## Legal Disclaimer
+	Disclaimer
 
 	The Monte Cook Games logo, Numenera, and the Numenera logo are trademarks
 	of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook
