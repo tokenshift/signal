@@ -90,6 +90,6 @@ Time grows short, and I must end this broadcast. Jyrek is a strong city with
 strong people; you will persevere. To everyone else who can hear me, keep
 listening. I'll be back with more tales from the Steadfast and the Beyond.
 
-Ladace, numenera hunters.
+Iadace, numenera hunters.
 
 I'm Vaux; end signal.

@@ -89,6 +89,6 @@ broadcast. Trade will flow through Nihliesh no matter who controls the city.
 To everyone who can hear me, keep listening. I'll be back with more tales from
 the Steadfast and the Beyond.
 
-Ladace, numenera hunters.
+Iadace, numenera hunters.
 
 Vaux, end signal.
