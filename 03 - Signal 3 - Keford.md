@@ -56,13 +56,13 @@ creeping toward the lush interior and its natural riches. And as you've gone
 you've discovered that you aren't the first to arrive there. High in the trees,
 webbing comes together to form small villages. Scuttling overhead in the canopy
 belies the presence of 8-eyed scouts who watch your movements. And every now
-and then, you can spot them. The Culovas.
+and then, you can spot them. The culovas.
 
 Normally, they're peaceful, reclusive; content to live and let live. But
 sometimes, someone can do something rather rash. A local hunter, the glaive
-Baral, recently killed a particularly big Culova during a foray into the
+Baral, recently killed a particularly big culova during a foray into the
 forest. He returned triumphant, mounted the head on his wall as a grim
-trophy...and that's when the nearby Culova band became aggressive.
+trophy...and that's when the nearby culova band became aggressive.
 
 Loggers, guards, explorers--doesn't matter who their targets are, they've been
 using hit-and-run attacks for weeks now, spraying poison on those they catch.
@@ -73,7 +73,7 @@ Baral is looking to put together a posse to head back into the forest and put
 an end to the threat once and for all. And your leaders have put up a reward to
 anyone brave enough to go with him.
 
-But it's curious. Many Culova have been killed over the years and never have
+But it's curious. Many culova have been killed over the years and never have
 they reacted so violently in response. What, exactly, has angered them? Could
 they still be reasoned with? Or is it safer to just wipe the lot of them out.
 
@@ -84,14 +84,14 @@ Saracenian, who lives in an old hut within the Westwood. It's said she can brew
 a cure to any ailment out of the local plant life. But the path to her home is
 treacherous, and only the desperate risk it.
 
-There's a spot in Rinus Bay where water lacks buyancy. It has been marked with
+There's a spot in Ryness Bay where water lacks buyancy. It has been marked with
 a warning, as the spot is quite deep, and anything that enters sinks right to
 the bottom. It's said more than one ship lies on the bay floor.
 
 Just over the Navarene border along the coast, legend holds there's a hidden
 cave, which the pirates of the Seventh Crucible used as a hideout. It's said
 they stashed a fortune in shins and numenera there before being sunk by the
-redfleets. No one has ever found it.
+red fleets. No one has ever found it.
 
 *...music...*
 
