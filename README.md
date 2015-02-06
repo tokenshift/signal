@@ -9,6 +9,7 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * [Signal 1: Jyrek](01 - Signal 1 - Jyrek.md)
 * [Signal 2: Nihliesh](02 - Signal 2- Nihliesh.md)
 * [Signal 3: Keford](03 - Signal 3 - Keford.md)
+* [Signal 4: The Floatmarket](04 - Signal 4 - The Floatmarket.md)
 
 ## Legal
 
