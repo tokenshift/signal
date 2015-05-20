@@ -26,14 +26,14 @@ Allista Provani has certainly inherited the trait. She is the niece of the
 family patriarch, Argust Provani, and she's looking to better her position in
 his eyes. What better way then opening up a new area of trade. Recently, a
 mysterious traveler approached the Provani with proof of a small, isolated
-village in the northern Cloud Crystal Skyfields, one built upon access to a
+village in the northern Cloudcrystal Skyfields, one built upon access to a
 rare, desert insect. A rare desert insect which has the appearance of jewelry,
 a deadly sting, and develops a strong bond to its handler. Such a luxury would
 fetch a fine price among the nobles in Navarene, but Argust doesn't believe
 it's worth the risk to investigate the village.
 
 Allista disagrees. She's decided to fund her own trade expedition into the
-northern Cloud Crystal Skyfields to locate this village, and negotiate a trade
+northern Cloudcrystal Skyfields to locate this village, and negotiate a trade
 deal. If she succeeds, it could prove a lucrative boost for her family, and
 her profile within it. If she fails, she'll be ruined...assuming she even
 survives the trip. Allista has put out word that she needs able men and women
