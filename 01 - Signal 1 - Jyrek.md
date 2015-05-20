@@ -17,7 +17,7 @@ If you're in Jyrek, listen closely.
 
 Living in Jyrek means living in one of the most defensible locations in the
 Steadfast. It's more than a city. It's a fortress. And you probably go about
-your day assuming you're totally safe, living in the shadow of the iron. But
+your day assuming you're totally safe, living in the shadow of the Eyren. But
 what if danger is already lurking within the walls of the city? What if it's
 stalking your streets or lurking in your alleys? It's become...unsafe to walk
 in Jyrek at night.
@@ -42,7 +42,7 @@ danger. Lock your doors tight, and travel in groups when the sun sets.
 
 *Music*
 
-Above your fortress city lies an impregnable shell. The Iron. Once, it was
+Above your fortress city lies an impregnable shell. The Eyren. Once, it was
 meant as a refuge for a royal family, but it became their tomb when disease
 spred through the structure. For decades, the great egg has floated over the
 heart of your city, civic and national law prohibiting anyone from entering for
@@ -55,10 +55,10 @@ Someone who specializes in forbidden doorways at a very secret university that
 exists very far from this world, and is very selective about who it teaches.
 
 Sian has begun a search for some brave souls who will join him on a very
-illegal expedition into the Iron. He wants to find the truth of what lies
+illegal expedition into the Eyren. He wants to find the truth of what lies
 within.
 
-The danger within the Iron is almost certainly real, but the potential riches
+The danger within the Eyren is almost certainly real, but the potential riches
 are equally so. Once, it was home to royalty, after all. To this day, tales
 tell that the egg is a vast storehouse of riches, finery, and numenera. But can
 Sian find a secret way in? Can he be trusted? And perhaps most importantly,
