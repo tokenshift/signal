@@ -32,7 +32,7 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * Signal 23: Threshold *TODO*
 * Signal 24: Aian *TODO*
 * Signal 25: Arxil *TODO*
-* Signal 26: Acknyt *TODO*
+* [Signal 26: Acknyt](26 - Signal 26 - Acknyt.md)
 
 ## Legal
 
