@@ -15,6 +15,24 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * [Signal 7: Shallamas](07 - Signal 7 - Shallamas.md)
 * [Signal 8: Hidden Naresh](08 - Signal 8 - Hidden Naresh.md)
 * [Signal 9: Far Brohn](09 - Signal 9 - Far Brohn.md)
+* Signal 10: +-^|THE SIGNAL~|*+ *TODO*
+* Signal 11: The Convergence *TODO*
+* Signal 12: Cylion Basin *TODO*
+* Signal 12.5: New Year Break *TODO*
+* Signal 13: Taera *TODO*
+* Signal 14: The Beach *TODO*
+* Signal 15: The Aerothos Bibliotech *TODO*
+* Signal 16: Mulen *TODO*
+* Signal 17: ~*OPPORTUNITIES*~ *TODO*
+* Signal 18: Camp Norana *TODO*
+* Signal 19: Queslin *TODO*
+* Signal 20: University of Doors *TODO*
+* Signal 21: The Road *TODO*
+* Signal 22: Thriest *TODO*
+* Signal 23: Threshold *TODO*
+* Signal 24: Aian *TODO*
+* Signal 25: Arxil *TODO*
+* Signal 26: Acknyt *TODO*
 
 ## Legal
 
