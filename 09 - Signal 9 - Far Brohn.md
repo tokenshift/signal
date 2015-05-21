@@ -15,7 +15,7 @@ listen closely.
 
 *...music...*
 
-The air of frozen Mathunis blows northward over the Sidara river and breaks
+The air of frozen Matheunis blows northward over the Sadara river and breaks
 like a freazing ocean upon the walls of Far Brohn. For generations your city
 has been the last bastion of civilization on the cold, southern border of not
 just the Pytharon Empire, but the Steadfast itself. Your walls have held
@@ -47,11 +47,11 @@ Converting. Evangelizing. For the Fahat.
 For months now, the religion of Nihliesh has begun making inroads in your
 community. At first, there were only a few of these misshapen priests on your
 streets, but their numbers seem to have swelled, and they've begun to attract
-followers. These priests have been harassed, even attacked, but are not
-dissuaded from continuing their mission. And the reason they're so motivated,
-is that one of the Fahat has come with them.
+followers. These priests have been harassed, even attacked, but not dissuaded
+from continuing their mission. And the reason they're so motivated, is that one
+of the Fahat has come with them.
 
-Gal Ivesh, a skeletal mutant with a most beautiful face. He moves among his
+Gal Ivesh, a skeletal mutant with the most beautiful face. He moves among his
 followers like a terrifying angel, bolstering their faith and directing their
 efforts. In a few short months, without the knowledge of the Pytharon merchant
 lords, Gal Ivesh has become a power player in the city, using his growing base

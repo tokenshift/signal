@@ -14,6 +14,7 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * [Signal 6: Tureen](06 - Signal 6 - Tureen.md)
 * [Signal 7: Shallamas](07 - Signal 7 - Shallamas.md)
 * [Signal 8: Hidden Naresh](08 - Signal 8 - Hidden Naresh.md)
+* [Signal 9: Far Brohn](09 - Signal 9 - Far Brohn.md)
 
 ## Legal
 
