@@ -33,6 +33,7 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * Signal 24: Aian *TODO*
 * Signal 25: Arxil *TODO*
 * [Signal 26: Acknyt](26 - Signal 26 - Acknyt.md)
+* [Signal 27: Nabir Enthru](27 - Signal 27 - Nabir Enthru.md)
 
 ## Legal
 
