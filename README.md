@@ -35,7 +35,7 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * [Signal 26: Acknyt](26 - Signal 26 - Acknyt.md)
 * [Signal 27: Nabir Enthru](27 - Signal 27 - Nabir Enthru.md)
 * [Signal 28: Wyrcross](28 - Signal 28 - Wyrcross.md)
-* Signal 28.5: Travelers *TODO*
+* [Signal 28.5: Travelers](28.5 - Signal 28.5 - Travelers.md)
 
 ## Legal
 
