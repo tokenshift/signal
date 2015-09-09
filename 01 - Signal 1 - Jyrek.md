@@ -23,7 +23,7 @@ stalking your streets or lurking in your alleys? It's become...unsafe to walk
 in Jyrek at night.
 
 I'm certain you've heard of the disappearances. A few local vagrants; a trio of
-gaurdsmen. A pair of children. All, vanished.
+guardsmen. A pair of children. All, vanished.
 
 What your authorities aren't telling you, however, is that they're dead. Their
 bodies *have* been found, and quietly disposed of. But why? Because something
