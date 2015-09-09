@@ -10,10 +10,10 @@ and cuts out*
 *Female voice:*
 
 I'm very sorry, numenera hunters, but you won't be hearing from your "friend"
-today. I have taken control of The Signal. I am Magestrix Arashia. I'm a...
-regular listener of The Signal, as I assume many of you are. But, whereas I
-suspect many of you listen to these broadcasts for some measure of the truth, I
-listen to them for another reason entirely.
+today. I have taken control of The Signal. I am Magestrix Arashia. I'm a...regular
+listener of The Signal, as I assume many of you are. But, whereas I suspect many
+of you listen to these broadcasts for some measure of the truth, I listen to
+them for another reason entirely.
 
 I listen to them to pick out lies.
 
