@@ -15,7 +15,7 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * [Signal 7: Shallamas](07 - Signal 7 - Shallamas.md)
 * [Signal 8: Hidden Naresh](08 - Signal 8 - Hidden Naresh.md)
 * [Signal 9: Far Brohn](09 - Signal 9 - Far Brohn.md)
-* [Signal 10: +-^|THE SIGNAL~|*+](10 - Signal 10 - +-^|THE SIGNAL~|*+.md)
+* [Signal 10: +-^|THE SIGNAL~|*+](10 - Signal 10 - +-^THE SIGNAL~+.md)
 * Signal 11: The Convergence *TODO*
 * Signal 12: Cylion Basin *TODO*
 * Signal 12.5: New Year Break *TODO*
@@ -36,6 +36,7 @@ podcast set in the world of Monte Cook's [Numenera](http://www.numenera.com/).
 * [Signal 27: Nabir Enthru](27 - Signal 27 - Nabir Enthru.md)
 * [Signal 28: Wyrcross](28 - Signal 28 - Wyrcross.md)
 * [Signal 28.5: Travelers](28.5 - Signal 28.5 - Travelers.md)
+* [Signal 29: Storui](29 - Signal 29 - Storui.md)
 
 ## Legal
 
